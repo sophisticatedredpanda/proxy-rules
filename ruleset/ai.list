@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,groq.com
