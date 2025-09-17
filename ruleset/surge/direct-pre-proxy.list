@@ -1,0 +1,1 @@
+AND,((SRC-IP,SRC-IP,192.168.2.95), (DOMAIN-SUFFIX, dmhy.org))
