@@ -1,0 +1,4 @@
+# 只有部分节点支持的特殊流量
+
+# NTP协议
+DOMAIN-SUFFIX,time.android.com
