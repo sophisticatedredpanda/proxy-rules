@@ -1,2 +1,5 @@
 # HoYoverse
 AND,((IP-ASN,45102), (PROTOCOL,UDP))
+
+# Operation Lovecraft
+AND,((IP-ASN,32590), (PROTOCOL,UDP))
