@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,cp4.cloudflare.com
 
 # JetBrains AI
 DOMAIN-SUFFIX,jetbrains.ai
+
+# Gemini
+DOMAIN-SUFFIX,google.com
