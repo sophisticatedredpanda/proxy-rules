@@ -3,3 +3,6 @@ SRC-IP,192.168.2.95/32
 
 # 进程
 PROCESS-NAME,RustDesk
+
+# 域名
+DOMAIN-SUFFIX,bochk.com
