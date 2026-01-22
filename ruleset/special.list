@@ -2,3 +2,4 @@
 
 # NTP协议
 DOMAIN-SUFFIX,time.android.com
+DOMAIN-SUFFIX,time.google.com
