@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-WILDCARD,*smoot.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,opencode.ai
 
 # JetBrains AI
 DOMAIN-SUFFIX,jetbrains.ai
