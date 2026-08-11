@@ -5,6 +5,8 @@ DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,apple-relay.apple.com
+# Found Rules
+DOMAIN,gateway.icloud.com
 
 # OpenCode
 DOMAIN-SUFFIX,opencode.ai
