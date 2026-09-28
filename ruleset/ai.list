@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,jetbrains.ai
 # Google AI
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.com.hk
+
+# Meta AI
+DOMAIN-SUFFIX,muse.ai
