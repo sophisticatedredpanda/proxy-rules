@@ -1,0 +1,6 @@
+PROCESS-NAME,/Applications/MapleStory Launcher.app/
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexon.net
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexonstatic.com
+DOMAIN,68bd384lrg.execute-api.ap-northeast-1.amazonaws.com
